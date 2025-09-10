@@ -37,34 +37,17 @@ For example:
 
 ```
 .
-├── Chapter_01_Python_Primer/
-│   ├── C-1.1.py
-│   ├── C-1.2.py
+├── Ch01_Python_Primer/
+│   ├── Creativity
+│   ├── Reinforcement
 │   └── ...
-├── Chapter_02_Object_Oriented_Programming/
+├── Ch02_Object_Oriented_Programming/
 │   └── ...
 └── README.md
 ```
 
-- Filenames follow the exercise numbering used in the book (e.g., `C-1.24.py` for *Chapter 1, Exercise 24*).  
+- Filenames follow the exercise numbering used in the book.  
 - Where appropriate, solutions include comments explaining the approach and references to the problem statement.  
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
-   cd data-structures-algorithms-python
-   ```
-
-2. Run any exercise with Python 3:
-   ```bash
-   python Chapter_01_Python_Primer/C-1.24.py
-   ```
-
-3. Explore different chapters as you progress through the book.
 
 ---
 
