@@ -4,7 +4,7 @@
 
 def count_vowels(n):
     vowels = {"a", "e", "i", "o", "u"}
-    return sum(1 for char in n.lower() if char in vowels)
+    return sum(1 for ch in n.lower() if ch in vowels)
 
 
 print(count_vowels("Hello"))

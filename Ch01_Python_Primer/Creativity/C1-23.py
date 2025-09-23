@@ -7,6 +7,5 @@
 try:
     listA = [1, 2, 3]
     listA[3] = 4
-    print(listA)
 except IndexError:
     print("Don’t try buffer overflow attacks in Python!")
