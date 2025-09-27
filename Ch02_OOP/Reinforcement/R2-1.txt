@@ -1,0 +1,8 @@
+R-2.1 Give three examples of life-critical software applications.
+
+1. Software for MRI machines. It is critical that this software works corretly always
+2. Tesla self-driving software. This is a critical software that must function correctly always,
+as an error in this software could mean an accident involving another person, vehicle, or animal
+3. Airports control tower instruments. All software used in airport control towers is critcal, as
+it is used by people to route other planes, avoid crashes, help with landings, and making sure that
+all aircraft arrives safely
